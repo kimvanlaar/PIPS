@@ -1,0 +1,7 @@
+Package: plotinfo
+Title: My Reusable Functions
+Version: 0.1.0
+Authors@R: person("Kim", "van Laar", role = c("aut", "cre"))
+Description: Reusable functions for plotting and summary statistics.
+License: MIT
+Encoding: UTF-8
